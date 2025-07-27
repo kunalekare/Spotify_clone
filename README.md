@@ -3,6 +3,7 @@
 An interactive and responsive front-end clone of Spotify built using HTML, CSS, and JavaScript.
 
 🌐 **Live Preview**: [https://spotify-clone-plum-five.vercel.app/](https://spotify-clone-plum-five.vercel.app/)
+make your screen size 67%
 
 ## 🚀 Features
 
@@ -18,9 +19,7 @@ An interactive and responsive front-end clone of Spotify built using HTML, CSS, 
 - CSS3
 - JavaScript (Vanilla)
 
-## 📸 Screenshot
-
-![Spotify Clone Preview](https://spotify-clone-plum-five.vercel.app/preview.png) <!-- (Add preview image to your repo and update link) -->
+ <!-- (Add preview image to your repo and update link) -->
 
 ---
 
